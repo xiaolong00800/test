@@ -1,0 +1,3 @@
+{application,test}.
+{packages,[]}.
+{modules,[test,test_app,test_deps,test_sup,test_web]}.
